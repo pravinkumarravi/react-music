@@ -1,0 +1,5 @@
+{
+  "name": "Copy of TuneStream AI",
+  "description": "A Spotify-like music application with a unique dark theme, featuring AI-powered playlist generation using Gemini. Browse, play, and create personalized playlists with ease.",
+  "requestFramePermissions": []
+}
